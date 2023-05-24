@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass 02</string>
+    <string name="ticket_price_hunt">\@string/ticket_price_hint</string>
+    <string name="textView1">Ticket Price:</string>
+    <string name="textView2">Discounted %:</string>
+    <string name="textView3">Discounted Price:</string>
+    <string name="defaultText">default</string>
+    <string name="textViewDiscounted" />
+    <string name="textViewDiscountedPrice" />
+    <string name="button1">5% Discount</string>
+    <string name="button2">10% Discount</string>
+    <string name="button3">15% Discount</string>
+    <string name="button4">20% Discount</string>
+    <string name="button5">50% Discount</string>
+    <string name="button6">Clear</string>
+    <string name="ticketPriceInfo">Enter Ticket Price</string>
+</resources>
